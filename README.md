@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/PriceCheck Logo V1.1.jpg" alt="PriceCheck Logo" width="300"/>
+  <img src="assets/pricecheck-logo.png" alt="PriceCheck Logo" width="300"/>
 </p>
 
 # 🛒 PriceCheck  
