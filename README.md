@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/pricecheck-logo.png" alt="PriceCheck Logo" width="300"/>
+  <img src="assets/pricecheck-logo.PNG" alt="PriceCheck Logo" width="300"/>
 </p>
 # 🛒 PriceCheck  
 **Community-powered grocery price tracker & savings optimizer.**
